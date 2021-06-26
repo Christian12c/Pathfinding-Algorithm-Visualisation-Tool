@@ -2,6 +2,7 @@
 A pathfinding algorithm visualisation tool for my AQA A-Level Computer Science Non-Exam Assessment
 
 
+
 How to use the Tool:
 
 On start, a white interactive grid is displayed along with a toolbar at the top of the window. The program allows the user to select two cells, the first indicating the start node and the second indicating the end node. At this stage, the obstacles (cells in which the path cannot travel) can be chosen in two ways: filling in cells manually or the program using recursive division to automatically to create a maze. To fill in the cells manually, the cells which are to be selected need to be pressed. To create the recursively divided maze, the "Recursive Division Maze" should be pressed. The obstacles will be indicated in purple.
