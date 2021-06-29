@@ -1,3 +1,4 @@
+#Pathfinding Algorithm Visualisation Tool
 
 A pathfinding algorithm visualisation tool completed in partial fulfilment of the requirements of the AQA A-Level Computer Science Non-Exam Assessment.
 
